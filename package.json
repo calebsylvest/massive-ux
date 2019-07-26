@@ -1,0 +1,40 @@
+{
+  "name": "MassiveUX",
+  "author": "Caleb Sylvest <caleb.sylvest@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virenb/gatsby-theme-youtube.git"
+  },
+  "bugs": {
+    "url": "https://github.com/virenb/gatsby-theme-youtube/issues"
+  },
+  "homepage": "https://github.com/virenb/gatsby-theme-youtube#readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.13.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "gatsby": "^2.13.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.14",
+    "@mdx-js/react": "^1.0.21",
+    "dotenv": "^8.0.0",
+    "gatsby-plugin-theme-ui": "^0.2.2",
+    "gatsby-source-youtube-v2": "^1.0.1",
+    "theme-ui": "^0.2.2"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin",
+    "gatsby-theme-youtube",
+    "youtube"
+  ]
+}
